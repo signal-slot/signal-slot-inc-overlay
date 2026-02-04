@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>tasuku.suzuki@signal-slot.co.jp</email>
+		<name>Tasuku Suzuki</name>
+	</maintainer>
+	<use>
+		<flag name="gui">Enable Qt Gui module support</flag>
+		<flag name="network">Enable Qt Network module support</flag>
+		<flag name="widgets">Enable Qt Widgets module support</flag>
+	</use>
+	<upstream>
+		<remote-id type="github">signal-slot/QtMcp</remote-id>
+	</upstream>
+</pkgmetadata>

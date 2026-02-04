@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>tasuku.suzuki@signal-slot.co.jp</email>
+		<name>Tasuku Suzuki</name>
+	</maintainer>
+	<use>
+		<flag name="desktop">Enable desktop screenshot support (X11/Wayland)</flag>
+		<flag name="kms">Enable KMS/DRM screenshot support</flag>
+		<flag name="http">Enable HTTP server for screenshot delivery</flag>
+	</use>
+	<upstream>
+		<remote-id type="github">signal-slot/mcp-screenshot</remote-id>
+	</upstream>
+</pkgmetadata>

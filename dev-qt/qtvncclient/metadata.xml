@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>tasuku.suzuki@signal-slot.co.jp</email>
+		<name>Tasuku Suzuki</name>
+	</maintainer>
+	<use>
+		<flag name="zlib">Enable zlib compression for Tight/ZRLE encodings</flag>
+	</use>
+	<upstream>
+		<remote-id type="github">signal-slot/QtVncClient</remote-id>
+	</upstream>
+</pkgmetadata>
