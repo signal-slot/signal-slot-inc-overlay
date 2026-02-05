@@ -12,7 +12,7 @@ OVERLAY_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
 # format: submodule_dir:portage_dir:branch:github_repo_name
 MODULES=(
     "modules/qtmcp:dev-qt/qtmcp:main:qtmcp"
-    "modules/qtvncclient:dev-qt/qtvncclient:main:QtVncClient"
+    "modules/qtvncclient:dev-qt/qtvncclient:main:qtvncclient"
     "modules/qtpsd:dev-qt/qtpsd:main:qtpsd"
 )
 

@@ -9,6 +9,6 @@
 		<flag name="zlib">Enable zlib compression for Tight/ZRLE encodings</flag>
 	</use>
 	<upstream>
-		<remote-id type="github">signal-slot/QtVncClient</remote-id>
+		<remote-id type="github">signal-slot/qtvncclient</remote-id>
 	</upstream>
 </pkgmetadata>

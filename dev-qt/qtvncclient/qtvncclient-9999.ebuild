@@ -6,8 +6,8 @@ EAPI=8
 inherit cmake git-r3
 
 DESCRIPTION="Qt module for VNC client functionality"
-HOMEPAGE="https://github.com/signal-slot/QtVncClient"
-EGIT_REPO_URI="https://github.com/signal-slot/QtVncClient.git"
+HOMEPAGE="https://github.com/signal-slot/qtvncclient"
+EGIT_REPO_URI="https://github.com/signal-slot/qtvncclient.git"
 
 LICENSE="LGPL-3 GPL-2 GPL-3"
 SLOT="0"

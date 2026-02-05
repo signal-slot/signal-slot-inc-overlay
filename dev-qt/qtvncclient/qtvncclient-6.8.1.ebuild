@@ -6,9 +6,8 @@ EAPI=8
 inherit cmake
 
 DESCRIPTION="Qt module for VNC client functionality"
-HOMEPAGE="https://github.com/signal-slot/QtVncClient"
-SRC_URI="https://github.com/signal-slot/QtVncClient/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz"
-S="${WORKDIR}/QtVncClient-${PV}"
+HOMEPAGE="https://github.com/signal-slot/qtvncclient"
+SRC_URI="https://github.com/signal-slot/qtvncclient/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="LGPL-3 GPL-2 GPL-3"
 SLOT="0"
