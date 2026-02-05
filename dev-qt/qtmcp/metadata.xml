@@ -11,6 +11,6 @@
 		<flag name="widgets">Enable Qt Widgets module support</flag>
 	</use>
 	<upstream>
-		<remote-id type="github">signal-slot/QtMcp</remote-id>
+		<remote-id type="github">signal-slot/qtmcp</remote-id>
 	</upstream>
 </pkgmetadata>

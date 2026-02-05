@@ -6,8 +6,8 @@ EAPI=8
 inherit cmake git-r3
 
 DESCRIPTION="Qt-based Model Context Protocol (MCP) implementation"
-HOMEPAGE="https://github.com/signal-slot/QtMcp"
-EGIT_REPO_URI="https://github.com/signal-slot/QtMcp.git"
+HOMEPAGE="https://github.com/signal-slot/qtmcp"
+EGIT_REPO_URI="https://github.com/signal-slot/qtmcp.git"
 
 LICENSE="LGPL-3 GPL-2 GPL-3"
 SLOT="0"
